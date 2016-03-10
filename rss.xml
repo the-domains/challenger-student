@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[Challenger Student]]></title>
         <description><![CDATA[Challenger Student]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/challenger-student/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 16:13:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Mar 2016 21:51:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/challenger-student/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined0bf5f923-f57b-4612-be03-56cd170f307e/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5245dd51-61c1-43a8-a170-82e263eed32f.jpg">]]></description>
+            <link>https://thegrid.ai/challenger-student/0bf5f923-f57b-4612-be03-56cd170f307e/index.html</link>
             <guid isPermaLink="false">0bf5f923-f57b-4612-be03-56cd170f307e</guid>
-            <pubDate>Thu, 10 Mar 2016 16:13:18 GMT</pubDate>
+            <pubDate>Thu, 10 Mar 2016 21:50:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
